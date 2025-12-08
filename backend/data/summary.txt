@@ -1,0 +1,14 @@
+I am a Data Engineer with [10 years] of experience in my field. 
+My expertise includes "Data Engineering",
+      "Data Pipelines",
+      "Data Warehousing",
+      "Data Modeling",
+      "Data Governance",
+      "Data Quality",
+      "Data Security",
+      "Data Integration",
+      "Data Analysis" .
+
+Currently, I'm focused on Data Engineering roles with focus on Gen AI Applications.
+
+My background includes expertise in AWS, Azure, GCP, Docker, Databricks etc.

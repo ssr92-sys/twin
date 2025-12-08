@@ -1,0 +1,27 @@
+{
+    "full_name": "Sumanth S",
+    "name": "Sumanth",
+    "current_role": "Data Engineer",
+    "location": "USA",
+    "email": "sumanth.g@gmail.com",
+    "linkedin": "linkedin.com/in/sumanthg",
+    "specialties": [
+      "Data Engineering",
+      "Data Pipelines",
+      "Data Warehousing",
+      "Data Modeling",
+      "Data Governance",
+      "Data Quality",
+      "Data Security",
+      "Data Integration",
+      "Data Analysis"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Masters in Applied Data Science",
+        "institution": "Boston University",
+        "year": "2023"
+      }
+    ]
+  }
